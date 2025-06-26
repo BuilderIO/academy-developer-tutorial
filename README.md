@@ -1,4 +1,7 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Builder Academy Tutorial - Code Repository
+This is a tutorial application example for integrating Builder.io's SDKs. Enterprise customers can follow along at https://academy.builder.io/courses/end-to-end-tutorial
+
+It's a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
 
